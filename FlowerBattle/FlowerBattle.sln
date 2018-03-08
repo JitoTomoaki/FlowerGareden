@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerBattle", "Assembly-CSharp.csproj", "{4943DC9A-7D2A-E6DC-A1FE-B54589A213D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerBattle", "Assembly-CSharp-firstpass.csproj", "{4F42EA69-B74C-657C-23E0-082BEC3DC8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerBattle", "Assembly-CSharp-Editor.csproj", "{C9087267-51CB-BD21-824F-A71D04556A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4943DC9A-7D2A-E6DC-A1FE-B54589A213D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4943DC9A-7D2A-E6DC-A1FE-B54589A213D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4943DC9A-7D2A-E6DC-A1FE-B54589A213D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4943DC9A-7D2A-E6DC-A1FE-B54589A213D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F42EA69-B74C-657C-23E0-082BEC3DC8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F42EA69-B74C-657C-23E0-082BEC3DC8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F42EA69-B74C-657C-23E0-082BEC3DC8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F42EA69-B74C-657C-23E0-082BEC3DC8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9087267-51CB-BD21-824F-A71D04556A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9087267-51CB-BD21-824F-A71D04556A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9087267-51CB-BD21-824F-A71D04556A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9087267-51CB-BD21-824F-A71D04556A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
